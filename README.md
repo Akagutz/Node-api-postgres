@@ -1,5 +1,5 @@
 # swamp-events
-> A nodejs bot that listen to event notifications on the database with Postgres
+> A nodejs bot that listens to event notifications on the database with Postgres
 > event triggers and stream events to the frontend using the SSE api
 
 ## About

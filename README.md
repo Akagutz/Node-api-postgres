@@ -11,4 +11,5 @@
 
 ## npm libraries
 - pg
+- pg-promise
 - koajs

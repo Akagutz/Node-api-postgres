@@ -9,7 +9,3 @@
 - The event stream is a simple stream of text data encoded in UTF-8
 
 
-## npm libraries
-- pg
-- pg-promise
-- koajs
